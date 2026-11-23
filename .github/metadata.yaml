@@ -1,0 +1,8 @@
+description: "Impedance for Swift: mechanical, acoustic and specific acoustic impedance, as kinds of quantity."
+topics:
+  - primitives
+  - quantity
+  - physics
+homepage: "https://swift-institute.org"
+readme:
+  family: E
